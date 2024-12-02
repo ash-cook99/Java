@@ -4,6 +4,8 @@
 
 ### The purpose of this project is to develop an Inventory Management System for a business franchise, which holds summary detail of all the business’ stores, as well as the product inventory stock. This program overall is a management system that provides users with the ability to carry out transactions and generate summary reports. The students implemented this system using Java coding language.
 
+# Files
+
 ## Main.java
 
 ### This class is the entry point of the program and contains the main method. It provides a command-line interface for users to interact with the Inventory Management System. Users can add products, stores, perform incoming and outgoing transactions, and generate reports using the prompts and input provided through the console. The loop allows users to continuously interact with the system until they choose to exit.
